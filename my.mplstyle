@@ -1,0 +1,23 @@
+font.family: Times New Roman
+xtick.labelsize: 15
+ytick.labelsize: 15
+font.size: 18
+figure.figsize: 6.6, 5
+axes.titlesize: 18
+axes.labelsize: 18
+lines.linewidth: 2.5
+lines.markersize: 6
+legend.fontsize: 15
+mathtext.fontset: stix
+axes.linewidth: 0.5
+axes.facecolor: white
+axes.edgecolor: black
+axes.labelcolor: black
+text.color: black
+xtick.color: black
+ytick.color: black
+grid.color: gray
+figure.facecolor: white
+figure.edgecolor: white
+savefig.facecolor: white
+savefig.edgecolor: white
