@@ -1,6 +1,6 @@
 # ScientificPlot
 
-![Cover Image](example_plot.png)
+<img src="example_plot.pdf" alt="Cover Image" width="50%">
 
 This repository is for anyone wants to format a nice figure in scientific jounal or paper.
 
